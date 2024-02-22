@@ -1,7 +1,6 @@
-<header align="center">
-    <h1 style="display: inline">Hi!👋, I'm Juan Medina</h1>
-    <img style="vertical-align: top" align="center" src="https://media4.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif?cid=ecf05e47c46ushdt1vl47mya8b53saie0mbnuqpaaa3o0m41&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200px">
-    <br> <img src="https://gifdb.com/images/high/purple-cat-typing-at-work-n2ihfrdznlm2m5fc.gif" height="100px">
+<header style="text-align: center">
+    <h1>Hi!👋, I'm Juan Medina <img style="vertical-align: top" align="center" src="https://media4.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif?cid=ecf05e47c46ushdt1vl47mya8b53saie0mbnuqpaaa3o0m41&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200px"></h1>
+    <br> <img  src="https://gifdb.com/images/high/purple-cat-typing-at-work-n2ihfrdznlm2m5fc.gif" height="100px">
 </header>
 
 ---
@@ -55,15 +54,15 @@ let aboutMe =
 
  
 <div>
-<a href="https://www.linkedin.com/in/juan-medina-876559291/">  
+<a style="text-decoration:none" href="https://www.linkedin.com/in/juan-medina-876559291/">  
     <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin">
 </a>
     
-<a href="https://github.com/FUANITO2029">
+<a style="text-decoration:none" href="https://github.com/FUANITO2029">
     <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="mailto:mh.juanluis23@gmail.com">
+<a style="text-decoration:none" href="mailto:mh.juanluis23@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
