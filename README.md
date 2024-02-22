@@ -1,7 +1,7 @@
-<header style="text-align: center">
+<div align="center">
     <h1>Hi!👋, I'm Juan Medina <img style="vertical-align: top" align="center" src="https://media4.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif?cid=ecf05e47c46ushdt1vl47mya8b53saie0mbnuqpaaa3o0m41&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200px"></h1>
-    <br> <img  src="https://gifdb.com/images/high/purple-cat-typing-at-work-n2ihfrdznlm2m5fc.gif" height="100px">
-</header>
+    <img  src="https://gifdb.com/images/high/purple-cat-typing-at-work-n2ihfrdznlm2m5fc.gif" height="100px">
+</div>
 
 ---
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm02NGlsa3p3bGd1OHE3NG5kb211YTRoN2xmZjI0eW1peXZ2N2xnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cF1tdSIMqrHDzAtQWD/giphy.gif" width="25px"> About me
