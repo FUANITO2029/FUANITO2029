@@ -54,15 +54,15 @@ let aboutMe =
 
  
 <div>
-<a style="text-decoration:none" href="https://www.linkedin.com/in/juan-medina-876559291/">  
+<a target="_blank" style="text-decoration:none;" href="https://www.linkedin.com/in/juan-medina-876559291/">  
     <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin">
 </a>
     
-<a style="text-decoration:none" href="https://github.com/FUANITO2029">
+<a target="_blank" style="text-decoration:none;" href="https://github.com/FUANITO2029">
     <img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github">
 </a>
 
-<a style="text-decoration:none" href="mailto:mh.juanluis23@gmail.com">
+<a target="_blank" style="text-decoration:none;" href="mailto:mh.juanluis23@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
